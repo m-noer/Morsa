@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1562783827,
+	"version": 1562787712,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -53,6 +53,10 @@
 		"images/pohon7-sheet0.png",
 		"images/light-sheet0.png",
 		"images/wg8p-sheet0.png",
+		"images/shadedlight-sheet0.png",
+		"images/shadedlight2-sheet0.png",
+		"images/shadedlight3-sheet0.png",
+		"images/shadedlight4-sheet0.png",
 		"media/a.ogg",
 		"media/correct-answer.ogg",
 		"media/wrong-answer-sound-effect.ogg",
