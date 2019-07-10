@@ -2,7 +2,7 @@
 	"name": "Morsa",
 	"short_name": "Morsa",
 	"start_url": "index.html",
-	"display": "standalone",
+	"display": "fullscreen",
 	"orientation": "landscape",
 	"icons": [{
 		"src": "icon-16.png",
